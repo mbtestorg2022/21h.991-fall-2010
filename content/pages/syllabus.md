@@ -68,18 +68,165 @@ Ravel, Jeffrey S. _The Would-Be Commoner: A Tale of Deception, Murder, and Justi
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | [Introduction: Constructing and de-constructing history in the western tradition]({{< baseurl >}}/pages/de-constructing-western-history) |
-| 2 | [National history: The case of the United States]({{< baseurl >}}/pages/national-history-united-states) |
-| 3 | [Borderlands]({{< baseurl >}}/pages/borderlands) |
-| 4 | [Global perspectives]({{< baseurl >}}/pages/global-perspectives) |
-| 5 | [Microhistory]({{< baseurl >}}/pages/microhistory) |
-| 6 |  {{< br >}}{{< br >}} [Environmental history]({{< baseurl >}}/pages/environmental-history) {{< br >}}{{< br >}} Guest lecture: Prof. Harriet Ritvo, History {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} [Women's history and gender]({{< baseurl >}}/pages/womens-history-and-gender) {{< br >}}{{< br >}} Guest lecture: Prof. Elizabeth Wood, History {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} [The Industrial Revolution: Why Britain?]({{< baseurl >}}/pages/industrial-revolution-why-britain) {{< br >}}{{< br >}} Guest lecture: Prof. Anne McCants, History {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} [Visual culture: definitions, issues]({{< baseurl >}}/pages/visual-culture-definitions-issues) {{< br >}}{{< br >}} Guest lecture: Prof. Caroline A. Jones, Architecture {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} [Media studies: old and new media ca. 1450, 1890, & 2010]({{< baseurl >}}/pages/media-studies-1450-1890-2010) {{< br >}}{{< br >}} Guest lecture: Prof. William Uricchio, Literature and Comparative Media Studies {{< br >}}{{< br >}}  |
-| 11 | Individual consultations with instructor |
-| 12 | [Digital humanities, publishing, and the library]({{< baseurl >}}/pages/digital-humanities) |
-| 13 | Class presentations of final projects
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Introduction: Constructing and de-constructing history in the western tradition]({{< baseurl >}}/pages/de-constructing-western-history)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[National history: The case of the United States]({{< baseurl >}}/pages/national-history-united-states)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Borderlands]({{< baseurl >}}/pages/borderlands)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Global perspectives]({{< baseurl >}}/pages/global-perspectives)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[Microhistory]({{< baseurl >}}/pages/microhistory)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Environmental history]({{< baseurl >}}/pages/environmental-history)
+
+Guest lecture: Prof. Harriet Ritvo, History
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Women's history and gender]({{< baseurl >}}/pages/womens-history-and-gender)
+
+Guest lecture: Prof. Elizabeth Wood, History
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[The Industrial Revolution: Why Britain?]({{< baseurl >}}/pages/industrial-revolution-why-britain)
+
+Guest lecture: Prof. Anne McCants, History
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Visual culture: definitions, issues]({{< baseurl >}}/pages/visual-culture-definitions-issues)
+
+Guest lecture: Prof. Caroline A. Jones, Architecture
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Media studies: old and new media ca. 1450, 1890, & 2010]({{< baseurl >}}/pages/media-studies-1450-1890-2010)
+
+Guest lecture: Prof. William Uricchio, Literature and Comparative Media Studies
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Individual consultations with instructor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+[Digital humanities, publishing, and the library]({{< baseurl >}}/pages/digital-humanities)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Class presentations of final projects
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
